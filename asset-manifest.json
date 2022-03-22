@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sreyanzz.github.io/csb-2szphw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sreyanzz.github.io/csb-2szphw/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://sreyanzz.github.io/csb-2szphw/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://sreyanzz.github.io/csb-2szphw/static/js/runtime-main.22fc0c9f.js",
+    "runtime-main.js.map": "https://sreyanzz.github.io/csb-2szphw/static/js/runtime-main.22fc0c9f.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://sreyanzz.github.io/csb-2szphw/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://sreyanzz.github.io/csb-2szphw/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://sreyanzz.github.io/csb-2szphw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sreyanzz.github.io/csb-2szphw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://sreyanzz.github.io/csb-2szphw/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22fc0c9f.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
